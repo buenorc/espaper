@@ -2,5 +2,5 @@ This repository contains input data used in case studies for the scientific manu
 
 For more information about the Interwave Analyzer, visit https://sites.google.com/view/interwaveanalyzer/interwave-analyzer
 
-For Interwave Analyzer's codes, visit our repository https://github.com/buenorc/interwaveanalyzer.git
+For up to date Interwave Analyzer's codes, visit our repository https://github.com/buenorc/interwaveanalyzer.git
 
